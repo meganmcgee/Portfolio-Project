@@ -1,0 +1,72 @@
+@import url('https://fonts.googleapis.com/css2?family=Lora:wght@500&display=swap');
+
+
+body {
+   background-color: #fef8e6;
+   text-align: center;
+}
+
+.navbar {
+   background-color: #fab2ac;
+   color:  #fef8e6;
+   font-weight: bolder;
+}
+
+.navbar-brand {
+   color: #fef8e6
+}
+.nav-link {
+   color:  #fef8e6;
+}
+
+.dropdown-menu {
+   background-color:#fab2ac;
+   color: #fef8e6
+}
+
+.dropdown-item {
+   color:  #fef8e6
+}
+
+.showcase {
+   background-color:#7bcecc;
+   color:  #fef8e6;
+   text-align: center;
+   padding-top: 35;
+   height: 120px;
+}
+
+h2 {
+   text-align: center;
+   font-family: 'Lora', serif;
+   font-size: 50px;
+}
+
+.Bio {
+   color:#3090a1;
+   font-family: 'Lora', serif;
+   font-size: x-large;
+   text-align: left;
+}
+
+.card {
+   background-color:#3090a1;
+   color:  #fef8e6;
+}
+
+.btn {
+   background-color: #f69d9d ;
+   color: #fef8e6;
+   font-weight:bolder;
+}
+
+.iframe-container {
+   padding-top: 200px;
+}
+
+.description {
+   font-family: 'Lora', serif;
+   font-size: 20px;
+   text-align: center;
+   color:#3090a1
+}
